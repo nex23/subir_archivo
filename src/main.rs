@@ -91,7 +91,7 @@ impl Component for App {
                         })}
                     >
                         <i class="fa fa-cloud-upload"></i>
-                        <p>{"Arrastra tu archivo aquí, o cli para seleccionarlo"}</p>
+                        <p>{"Arrastra tu archivo aquí, o clic para seleccionarlo"}</p>
                     </div>
                 </label>
                 <input
